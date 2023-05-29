@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    padding: 10px;
+    background-image: url("n.jpg");
+    background-size: cover;
+    color:black;
+    font-size: 25px;
+    
+}
+#animalPicture{
+    border-color: aqua;
+}
+#animalPicture:hover{
+    transform:skew(20deg);
+
+
+    
+}
+
